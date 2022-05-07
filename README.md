@@ -1,2 +1,1 @@
-# web
 # discord-verification-web
