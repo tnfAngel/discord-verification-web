@@ -133,7 +133,7 @@ router.get('/auth/callback', async (req: Request, res: Response) => {
 
 		res.redirect(`/app/verify/${sessionKey}`);
 	} catch (err: any) {
-		return res.send('Backend Error: ' + JSON.stringify(err.response.data, null, 2));
+		return res.send('Backend Error:' + JSON.stringify(err.response.data, null, 2));
 	}
 });
 
