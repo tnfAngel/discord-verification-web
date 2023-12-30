@@ -29,7 +29,7 @@
     "lint-staged": "^12.3.7",
     "morgan": "^1.10.0",
     "nodemon": "^2.0.17",
-    "npm-check-updates": "^16.7.2",
+    "npm-check-updates": "^16.14.11",
     "prettier": "2.6.1",
     "socket.io": "^4.6.0",
     "ts-node": "^10.7.0",
